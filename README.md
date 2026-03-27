@@ -16,7 +16,7 @@ Diferente de planilhas complexas ou softwares pesados, a NBR 5410 Pro é uma apl
 
 ## 📦 Como Instalar e Usar
 
-1.  **Baixe o Software**: Vá na aba [Releases](https://github.com/joaovictorpr3-dot/NBR5410-App/releases) e baixe a versão mais recente (`NBR5410_v1.0_alpha_Comercial.html`).
+1.  **Baixe o Software**: Vá na aba [Releases]([https://github.com/joaovictorpr3-dot/NBR5410-App/releases](https://github.com/SparkEngenharia/Spark-Engenharia/releases)) e baixe a versão mais recente (`NBR5410_v1.0_alpha_Comercial.html`).
 2.  **Abra o Arquivo**: Basta dar um duplo clique no arquivo baixado. Ele abrirá no seu navegador padrão.
 3.  **Ativação**: Insira sua chave de licença enviada por e-mail para desbloquear a plataforma.
 
